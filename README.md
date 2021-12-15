@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 😁 I'm a junior application developer working somewhere.
 - 🦀 Rust Rust Rust Rust 
+### My Qiita posts
+<!-- [![My Qiita posts](https://qiita-badge.apiapi.app/s/izmrui2020/posts.svg)](http://qiita.com/izmrui2020) -->
 <!--
 **izmrui2020/izmrui2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
