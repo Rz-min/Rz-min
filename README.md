@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+---
+
 - 😁 I'm a junior application developer working somewhere.
 - 🦀 Rust Rust Rust Rust 
 <!-- ### My Qiita posts
