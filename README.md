@@ -1,6 +1,11 @@
 # Hi there 👋
 - 😁 I'm a junior application developer working somewhere.
 - 🦀 Rust Rust Rust Rust 
+
+## I'm involved in..
+- Rust
+- Financial field
+
 <!-- ### My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/izmrui2020/posts.svg)](http://qiita.com/izmrui2020) -->
 <!--
