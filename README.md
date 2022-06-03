@@ -8,6 +8,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izmrui2020&layout=compact&hide=javascript,SCSS,jupyter%20notebook,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
+## Skills
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white )
+
+
+
 <!-- ### My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/izmrui2020/posts.svg)](http://qiita.com/izmrui2020) -->
 <!--
