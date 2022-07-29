@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cpp&logoColor=white)
 ![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white)
 
 
 
