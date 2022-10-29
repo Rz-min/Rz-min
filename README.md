@@ -1,10 +1,11 @@
 # Hi there 👋
-- 😁 I'm a junior application developer working somewhere.
+- 😁 I'm a junior application developer.
+- 💰 A financial field is my workplace.
 - 🦀 Rust Rust Rust Rust 
 
 ## I'm involved in..
 - Rust
-- Financial field
+- A financial field
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izmrui2020&layout=compact&hide=javascript,SCSS,jupyter%20notebook,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
