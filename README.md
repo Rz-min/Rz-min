@@ -1,35 +1,37 @@
-# Hi there 👋
-- 😁 I'm a junior application developer.
+<h1 align="center">Hi 👋, I'm Rui Iizumi.</h1>
+
+## BIO
+- 😁 I'm a Software Engineer based in Japan, Tokyo.
+- 🦀 I'm good at Rust, Python, and around AWS.
 - 💰 A financial field is my workplace.
-- 🦀 Rust Rust Rust Rust 
-
-## I'm involved in..
-- Rust
-- A financial field
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izmrui2020&layout=compact&hide=javascript,SCSS,jupyter%20notebook,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
-
-## Skills
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cpp&logoColor=white)
-![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white)
 
 
+## I'm involved in...
+- Software of market data with Rust.
+- AWS CDK with Python.
+- Financial field.
 
-<!-- ### My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/izmrui2020/posts.svg)](http://qiita.com/izmrui2020) -->
-<!--
-**izmrui2020/izmrui2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stacks: 🎯
+<p align="left"> 
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" alt="cpp" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### [AWS Certification](https://www.credly.com/users/rui-iizumi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## Contact Me 🌊
+I'm always open to exciting opportunities and collaborations.
+If you'd like to connect, discuss potential projects, or explore how we can work together, feel free to ping me through the following channels:
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: rui.iizumi.20+job@gmail.com\
+LinkedIn: under construction
