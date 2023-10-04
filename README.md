@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui Iizumi.</h1>
 
 ## BIO
-- 😁 I'm a Software Engineer based in and around Tokyo.
+- 😁 I'm a Software Engineer based Tokyo.
 - 🦀 I'm good at Rust, Python, and AWS.
 - 💰 A financial field is my workplace.
 
