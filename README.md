@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rui Iizumi.</h1>
-<img align="center" alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
 
 ## BIO
 - 😁 I'm a Software Engineer based Tokyo.
