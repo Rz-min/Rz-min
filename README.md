@@ -7,20 +7,10 @@
 </p>
 
 ## About Me:
-My name is Rui Iizumi and I’m a software engineer who loves Rust. \
-I work for a fintech company, where I have the opportunity to innovate and develop cutting-edge financial technology solutions.
+My name is Rui Iizumi and I’m a software engineer who is enthusiastic about Rust. \
+I work for a fintech company, where I am responsible for developing and improving software on a daily basis, as well as utilizing cloud technologies.
 
-## Recent Activities:
-- 🚀 **Developing Market Data Software with Rust**: Crafting efficient and reliable market data applications.
-- ⚡ **Building High-Performance Trading Software with Rust**: Enhancing trading capabilities with high-speed Rust implementations.
-- ☁️ **Managing AWS Cloud with Python CDK**: Utilizing Python CDK for streamlined AWS infrastructure management.
-- 🔍 **Validating AWS AppSync for Production**: Conducting thorough testing and validation of AWS AppSync for robust production deployment.
-- 🛠️ **Integrating OpenTelemetry into Rust Software**: Embedding OpenTelemetry for comprehensive observability in Rust applications.
-- 🌐 **Evaluating High-Traffic AWS Architectures**: Testing and optimizing architectures to handle high traffic efficiently on AWS.
-
-
-## Professional Development:
-Staying updated with the latest trends and best practices in software development is crucial.\
+## Skills Enhancement:
 Recently, I have been focusing on catching up with the following areas:
 
 - 🦀 **Rust**
